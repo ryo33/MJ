@@ -3,9 +3,9 @@ MJ
 
 ###In Twitter
 Working:  
-  [japanese](https://twitter.com/mj_bot_jp)  
+    [japanese](https://twitter.com/mj_bot_jp)  
 Planing:  
-  english
+    english
 ###Description
 MJ is a chatbot which can be used in any languages
 ###Requirement
